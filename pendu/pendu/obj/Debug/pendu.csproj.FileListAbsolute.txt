@@ -1,0 +1,6 @@
+C:\Users\wsofiane\Desktop\pendu\pendu\bin\Debug\pendu.exe.config
+C:\Users\wsofiane\Desktop\pendu\pendu\bin\Debug\pendu.exe
+C:\Users\wsofiane\Desktop\pendu\pendu\bin\Debug\pendu.pdb
+C:\Users\wsofiane\Desktop\pendu\pendu\obj\Debug\pendu.csprojResolveAssemblyReference.cache
+C:\Users\wsofiane\Desktop\pendu\pendu\obj\Debug\pendu.exe
+C:\Users\wsofiane\Desktop\pendu\pendu\obj\Debug\pendu.pdb
