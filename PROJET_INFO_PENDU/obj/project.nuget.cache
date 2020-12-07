@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rogFh8kOiIs039yofVLfDOxxWwcB22Cs01z6Rwp7VMmI29AgbpFYq3luAyt1n7DgfXvKCn3KpuEq0DzAEUtH8Q==",
+  "success": true,
+  "projectFilePath": "/Users/HugoBLANC/Documents/C#/PROJET_INFO_PENDU/PROJET_INFO_PENDU/PROJET_INFO_PENDU.csproj",
+  "expectedPackageFiles": [
+    "/Users/HugoBLANC/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
